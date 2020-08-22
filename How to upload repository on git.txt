@@ -1,0 +1,10 @@
+Open github
+Open gitbash
+Type cd ~
+Type cd Desktop/
+Type git clone given path on github as https
+Type cd path of the folder created on desktop
+Type git status
+Type git add .
+Type git commit -m "name of the project"
+Type git push origin master
